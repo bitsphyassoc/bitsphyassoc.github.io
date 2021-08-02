@@ -433,6 +433,7 @@ header .navbar {
 	position: absolute;
 	font-size: 18px;
 	color: #f33f3f;
+	padding: 30px
 }
 
 .product-item .down-content p {
