@@ -329,9 +329,17 @@ header .navbar {
 	max-height: 600px;
 }
 
-.banner .text-content {
+.banner .text-content-1 {
 	position: absolute;
 	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	width: 100%;
+}
+
+.banner .text-content-2 {
+	position: absolute;
+	top: 90%;
 	transform: translateY(-50%);
 	text-align: center;
 	width: 100%;
