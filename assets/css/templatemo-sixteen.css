@@ -422,7 +422,7 @@ header .navbar {
 .product-item img {
 	width: 100%;
 	overflow: hidden;
-	border-radius: 15px;
+	border-radius: 15px 15px 0px 0px;
 }
 
 .product-item .down-content h4 {
