@@ -412,6 +412,13 @@ header .navbar {
 	margin-bottom: 30px;
 	height: 500px;
 	border-radius: 15px;
+	background-image: url("/assets/images/bokeh.jpeg");
+	filter: blur(8px);
+	-webkit-filter: blur(8px);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .product-item .down-content {
