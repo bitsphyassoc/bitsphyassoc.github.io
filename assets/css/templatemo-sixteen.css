@@ -430,7 +430,6 @@ header .navbar {
 	width: 100%;
 	overflow: hidden;
 	border-radius: 15px;
-	background-image: url("/assets/images/bokeh.jpeg");
 	filter: blur(8px);
 	-webkit-filter: blur(8px);
 	height: 100%;
