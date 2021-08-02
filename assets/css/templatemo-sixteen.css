@@ -567,7 +567,7 @@ h6 {
 
 .team-member .thumb-container .hover-effect {
 	position: absolute;
-	background-color: rgba(243,63,63,0.9);
+	background-color: rgba(243,243,243,0.9);
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -651,7 +651,6 @@ h6 {
 		position: absolute!important;
 		top: 80%;
 		bottom: 0px!important;
-		right: 30px!important;
 		padding-left: 10px;
 	}
 	.product-item .down-content span {
@@ -691,6 +690,7 @@ h6 {
 @media (max-width: 992px) {
 	.navbar .navbar-brand {
 		position: absolute;
+		height: 60px;
 		left: 30px;
 		top: 32px;
 	}
