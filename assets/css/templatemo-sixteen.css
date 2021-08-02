@@ -18,7 +18,7 @@ p {
 	margin-bottom: 0px;
 	font-size: 14px;
 	font-weight: 300;
-	color: #4a4a4a;
+	color: #e4e4e4;
 	line-height: 24px;
 }
 
@@ -87,7 +87,7 @@ a.filled-button:hover {
 .section-heading h2 {
 	font-size: 28px;
 	font-weight: 400;
-	color: #1e1e1e;
+	color: #e1e1e1;
 	margin-bottom: 15px;
 }
 
@@ -403,7 +403,7 @@ header .navbar {
 .product-item {
 	border: 1px solid #eee;
 	margin-bottom: 30px;
-	height: 200px;
+	height: 500px;
 }
 
 .product-item .down-content {
