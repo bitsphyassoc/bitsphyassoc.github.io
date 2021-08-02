@@ -1,2 +1,5 @@
 # bitsphyassoc.github.io
-Blog Link
+
+[Blog Link](https://bitsphyassoc.github.io/)
+
+
