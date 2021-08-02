@@ -331,7 +331,7 @@ header .navbar {
 
 .banner .text-content {
 	position: absolute;
-	top: 50%;
+	bottom: 0%;
 	transform: translateY(-50%);
 	text-align: center;
 	width: 100%;
@@ -382,7 +382,6 @@ header .navbar {
     background-color: #fff;
     opacity: 1;
 }
-
 
 
 /* Latest Produtcs */
