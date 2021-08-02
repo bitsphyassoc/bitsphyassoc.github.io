@@ -954,10 +954,10 @@ footer .inner-content p a {
 	}
 	.product-item .down-content h6 {
 		position: absolute!important;
-		top: 90%;
+		top: 80%;
 		bottom: 0px!important;
 		right: 30px!important;
-		padding-left: 15px;
+		padding-left: 10px;
 	}
 	.product-item .down-content span {
 		position: absolute!important;
@@ -1038,10 +1038,10 @@ footer .inner-content p a {
 		margin-bottom: 10px;
 	}
 	.product-item .down-content h6 {
-		top: 90%;
+		top: 80%;
 		position: relative;
 		bottom: 0px;
-		padding-left: 15px;
+		padding-left: 10px;
 	}
 	.product-item .down-content span {
 		position: relative;
