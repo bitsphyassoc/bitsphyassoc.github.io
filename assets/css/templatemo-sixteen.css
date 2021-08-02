@@ -46,8 +46,7 @@ ul.social-icons li a {
 	height: 50px;
 	display: inline-block;
 	line-height: 50px;
-	background-color: #eee;
-	color: #121212;
+	color: #f33f3f;
 	font-size: 18px;
 	text-align: center;
 	transition: all .3s;
@@ -55,7 +54,7 @@ ul.social-icons li a {
 
 ul.social-icons li a:hover {
 	background-color: #f33f3f;
-	color: #f33f3f;
+	color: #fff;
 }
 
 a.filled-button {
@@ -345,7 +344,6 @@ header .navbar {
 .banner .text-content h2 {
 	color: #fff;
 	font-size: 62px;
-	text-transform: uppercase;
 	letter-spacing: 5px;
 }
 
