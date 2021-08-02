@@ -11,7 +11,9 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #121212;
 }
+
 p {
 	margin-bottom: 0px;
 	font-size: 14px;
@@ -19,9 +21,11 @@ p {
 	color: #4a4a4a;
 	line-height: 24px;
 }
+
 a {
 	text-decoration: none!important;
 }
+
 ul {
 	padding: 0;
 	margin: 0;
@@ -399,6 +403,7 @@ header .navbar {
 .product-item {
 	border: 1px solid #eee;
 	margin-bottom: 30px;
+	height: 200px;
 }
 
 .product-item .down-content {
