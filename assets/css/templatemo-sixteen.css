@@ -651,7 +651,7 @@ h6 {
 		position: absolute!important;
 		top: 80%;
 		bottom: 0px!important;
-		padding-left: 10px;
+		padding-left: 0px;
 	}
 	.product-item .down-content span {
 		position: absolute!important;
@@ -690,7 +690,7 @@ h6 {
 @media (max-width: 992px) {
 	.navbar .navbar-brand {
 		position: absolute;
-		height: 60px;
+		height: 80px;
 		left: 30px;
 		top: 32px;
 	}
@@ -736,7 +736,7 @@ h6 {
 		top: 80%;
 		position: relative;
 		bottom: 0px;
-		padding-left: 10px;
+		padding-left: 0px;
 	}
 	.product-item .down-content span {
 		position: relative;
