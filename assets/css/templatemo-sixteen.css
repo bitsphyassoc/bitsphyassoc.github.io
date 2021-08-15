@@ -541,6 +541,10 @@ h6 {
 	margin-bottom: 30px;
 }
 
+.team-image {
+	height: 250px;
+}
+
 .team-member img {
 	width: 100%;
 	overflow: hidden;
