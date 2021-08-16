@@ -106,7 +106,7 @@ a.filled-button:hover {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 520px;
+	height: 600px;
 	position: relative;
 	text-align: center;
 }
@@ -632,7 +632,8 @@ h6 {
 	}
 	.banner-item-01,
 	.banner-item-02,
-	.banner-item-03 {
+	.banner-item-03,
+	.banner-item-04 {
 		padding: 180px 0px;
 	}
 	.page-heading .text-content-2 h4 {
