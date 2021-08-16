@@ -299,6 +299,9 @@ header .navbar {
 }
 
 
+.about-heading .container .row .logo-container{
+	align-self: center;
+}
 
 /* Banner Style */
 .banner {
