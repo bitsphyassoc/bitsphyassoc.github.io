@@ -107,12 +107,6 @@ a.filled-button:hover {
 	background-size: cover;
 }
 
-.page-heading .logo-container{
-	align-self: center;
-	align-content: center;
-	vertical-align: center;
-}
-
 #preloader {
   overflow: hidden;
   background: #f33f3f;
