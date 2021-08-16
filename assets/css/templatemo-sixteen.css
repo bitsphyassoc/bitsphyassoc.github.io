@@ -309,7 +309,7 @@ header .navbar {
 
 .logo-container {
 	position: absolute;
-	background-image: url(https://raw.githubusercontent.com/bitsphyassoc/bitsphyassoc.github.io/main/assets/images/logo.png);
+	background-image: url(https://raw.githubusercontent.com/bitsphyassoc/bitsphyassoc.github.io/main/assets/images/logo_style.png);
 	height: 150px;
 	width: 150px;
 	z-index: 10000000000;
@@ -637,6 +637,11 @@ h6 {
 	}
 	.banner .text-content-2 h4 {
 		font-size: 22px;
+	}
+
+	.logo-container {
+		height: 100px;
+		width: 100px;
 	}
 
 	.banner .text-content h2 {
