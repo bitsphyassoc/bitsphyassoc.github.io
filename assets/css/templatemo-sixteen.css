@@ -105,10 +105,9 @@ a.filled-button:hover {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	min-height: 320px;
+	height: 320px;
 	position: relative;
 	text-align: center;
-	padding-top: 80px;
 }
 
 #preloader {
