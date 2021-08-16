@@ -313,6 +313,10 @@ header .navbar {
 	height: 150px;
 	width: 150px;
 	z-index: 10000000000;
+	-webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
 }
 
 .banner-item-01 {
