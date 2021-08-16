@@ -309,12 +309,10 @@ header .navbar {
 
 .logo-container {
 	position: absolute;
-	top: 0;
-	left: 0;
 	background-image: url(https://raw.githubusercontent.com/bitsphyassoc/bitsphyassoc.github.io/main/assets/images/logo.png);
 	max-height: 150px;
 	max-width: 150px;
-	z-index: 10000;
+	z-index: 10000000000;
 }
 
 .banner-item-01 {
